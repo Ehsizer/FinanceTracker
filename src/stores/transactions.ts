@@ -8,6 +8,7 @@ export interface Transaction {
   category: string
   date: string
   note?: string
+  title: string
 }
 
 export const useTransactionStore = defineStore('transactions', {

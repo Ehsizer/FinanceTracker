@@ -14,7 +14,7 @@
 </template>
 
 <script setup lang="ts">
-// Ничего не нужно здесь пока
+
 </script>
 
 <style scoped>
@@ -39,7 +39,6 @@
   border-bottom: 1px solid #333;
 }
 
-/* Ссылки в навбаре */
 .nav-link {
   color: #ccc;
   text-decoration: none;
