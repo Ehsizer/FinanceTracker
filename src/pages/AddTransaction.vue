@@ -62,7 +62,7 @@ function handleSubmit() {
     amount: amount.value,
     date: date.value,
     note: note.value,
-    title: note.value || category.value
+    title: ""
   })
   router.push('/')
 }
